@@ -1,0 +1,11 @@
+{
+    "go.useLanguageServer": true,
+    "go.languageServerExperimentalFeatures": {
+        "autoComplete": true,
+        "format": true,
+        "imports": true
+    },
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
